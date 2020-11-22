@@ -1,18 +1,23 @@
 const express = require("express");
-const bodyParser = require('body-parser');
 const app = express();
-const personajes = require('./personajes1')
+// const bodyParser = require('body-parser');
 //const personajes = require('./api/personajes')
+const personajes = require('./personajes1')
 const hechizos = require('./hechizos')
 const houses = require('./houses')
 const port = process.env.PORT || 3000;
+const fs = require('fs');
 
-app.use(bodyParser.urlencoded({ extended: false }));
-app.use(bodyParser.json());
+app.use(express.static('./src/assets'));
+
+// app.use(bodyParser.urlencoded({ extended: false }));
+// app.use(bodyParser.json());
 
 app.get('/', function (req, res) { res.send('Bienvenido a Api Potter'); });
 
 app.get('/characters', function (req, res) { res.send(personajes); });
+
+// app.get('/character/:img', function (req, res) { res.send(personajes); });
 
 app.get('/houses', function (req, res) { res.send(houses); });
 
@@ -43,13 +48,16 @@ app.get("/spells/:spell", function (req, res) {
     res.redirect("/error")
 })
 
-app.get("/src/assets/img/:imagen", function (req, res) {
+app.get("/character/:imagen", function (req, res) {
     var imagen = req.params.imagen.toLowerCase().replace(' ', '')
-    let foto = imagen + '.jpg'
+    let foto = imagen + '.jpeg'
 
-
-    if (foto) { res.send(`./src/assets/img/${foto}`) }
-    res.redirect("/error")
+    fs.readFile(`./src/assets/img/${foto}`, (err, data) => {
+        if (err) res.redirect("/error")
+        res.status(200);
+        res.set('Content-Type', 'image/jpeg')
+        return res.write(data)
+    })
 })
 
 app.listen(port, () => {
