@@ -1,8 +1,8 @@
 const express = require("express");
 const app = express();
-// const bodyParser = require('body-parser');
-//const personajes = require('./api/personajes')
-const personajes = require('./personajes1')
+const bodyParser = require('body-parser');
+const personajes = require('./personajes')
+//const personajes = require('./personajes1')
 const hechizos = require('./hechizos')
 const houses = require('./houses')
 const port = process.env.PORT || 3000;
@@ -10,12 +10,14 @@ const fs = require('fs');
 
 app.use(express.static('public'));
 
-// app.use(bodyParser.urlencoded({ extended: false }));
-// app.use(bodyParser.json());
+ app.use(bodyParser.urlencoded({ extended: false }));
+ app.use(bodyParser.json());
 
 app.get('/', function (req, res) { res.send('Bienvenido a Api Potter'); });
 
 app.get('/characters', function (req, res) { res.send(personajes); });
+
+//app.get('/editar', function (req, res) { res.send(editar()); });
 
 // app.get('/character/:img', function (req, res) { res.send(personajes); });
 
