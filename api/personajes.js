@@ -19,7 +19,7 @@ personajes = [
         "hogwartsStaff": false,
         "actor": "Daniel Radcliffe",
         "alive": true,
-        "image": "http://hp-api.herokuapp.com/images/harry.jpg"
+        "image": "https://api-potter.herokuapp.com/images/harrypotter.jpg"
     },
     {
         "name": "Hermione Granger",

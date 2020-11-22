@@ -8,7 +8,7 @@ const houses = require('./houses')
 const port = process.env.PORT || 3000;
 const fs = require('fs');
 
-app.use(express.static('./src/assets'));
+app.use(express.static('public'));
 
 // app.use(bodyParser.urlencoded({ extended: false }));
 // app.use(bodyParser.json());
@@ -48,7 +48,7 @@ app.get("/spells/:spell", function (req, res) {
     res.redirect("/error")
 })
 
-app.get("/character/:imagen", function (req, res) {
+app.get("/character/:imagen", function (req, res, next) {
     var imagen = req.params.imagen.toLowerCase().replace(' ', '')
     let foto = imagen + '.jpeg'
 
@@ -56,7 +56,8 @@ app.get("/character/:imagen", function (req, res) {
         if (err) res.redirect("/error")
         res.status(200);
         res.set('Content-Type', 'image/jpeg')
-        return res.write(data)
+        res.write(data)
+        return next()
     })
 })
 
