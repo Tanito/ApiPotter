@@ -7,9 +7,13 @@ const characters = require('../utils/characters');
 
 router.get('/', function (req, res) {
     const { house } = req.query;
-    const filter = characters.filter(p => p.house.toLowerCase().replace(' ', '') === house.toLocaleLowerCase().replace(' ', ''))
-    if (filter.length > 0) {
-        return res.json(filter);
+    if (house) {
+        const filter = characters.filter(p => p.house.toLowerCase().replace(' ', '') === house.toLowerCase().replace(' ', ''))
+        if (filter.length > 0) {
+            return res.json(filter);
+        } else {
+            return res.sendStatus(404);
+        }
     }
     res.send(characters);
 });
