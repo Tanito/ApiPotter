@@ -1,0 +1,1060 @@
+{
+    "Spells": [
+        {
+            "_id": "1",
+            "spell": "Aberto",
+            "type": "Charm",
+            "effect": "opens objects"
+        },
+        {
+            "_id": "2",
+            "spell": "Accio",
+            "type": "Charm",
+            "effect": "Summons an object",
+            "__v": "0"
+        },
+        {
+            "_id": "3",
+            "spell": "Age Line",
+            "type": "Enchantment",
+            "effect": "Hides things from younger people",
+            "__v": "0"
+        },
+        {
+            "_id": "4",
+            "spell": "Aguamenti",
+            "type": "Charm",
+            "effect": "shoots water from wand",
+            "__v": "0"
+        },
+        {
+            "_id": "5",
+            "spell": "Alarte Ascendare",
+            "type": "Spell",
+            "effect": "shoots things high in the air",
+            "__v": "0"
+        },
+        {
+            "_id": "6",
+            "spell": "Alohomora",
+            "type": "Charm",
+            "effect": "opens locked objects",
+            "__v": "0"
+        },
+        {
+            "_id": "7",
+            "spell": "Anapneo",
+            "type": "Spell",
+            "effect": "clears the target's airway",
+            "__v": "0"
+        },
+        {
+            "_id": "8",
+            "spell": "Anteoculatia",
+            "type": "Hex",
+            "effect": "turns head hair into antlers",
+            "__v": "0"
+        },
+        {
+            "_id": "9",
+            "spell": "Anti-Cheating",
+            "type": "Spell",
+            "effect": "prevents cheating on exams",
+            "__v": "0"
+        },
+        {
+            "_id": "10",
+            "spell": "Aparecium",
+            "type": "Spell",
+            "effect": "reveals invisible ink",
+            "__v": "0"
+        },
+        {
+            "_id": "11",
+            "spell": "Apparate",
+            "type": "Spell",
+            "effect": "teleportation spell",
+            "__v": "0"
+        },
+        {
+            "_id": "12",
+            "spell": "Arania Exumai",
+            "type": "Spell",
+            "effect": "blasts away spiders",
+            "__v": "0"
+        },
+        {
+            "_id": "13",
+            "spell": "Aqua Eructo",
+            "type": "Spell",
+            "effect": "shoots water from wand",
+            "__v": "0"
+        },
+        {
+            "_id": "14",
+            "spell": "Arresto Momentum",
+            "type": "Spell",
+            "effect": "slows down objects",
+            "__v": "0"
+        },
+        {
+            "_id": "15",
+            "spell": "Ascendio",
+            "type": "Spell",
+            "effect": "moves an object upward",
+            "__v": "0"
+        },
+        {
+            "_id": "16",
+            "spell": "Avada Kedavra",
+            "type": "Curse",
+            "effect": "murders opponent",
+            "__v": "0"
+        },
+        {
+            "_id": "17",
+            "spell": "Avifors",
+            "type": "Charm",
+            "effect": "turns small objects into birds",
+            "__v": "0"
+        },
+        {
+            "_id": "18",
+            "spell": "Avis",
+            "type": "Spell",
+            "effect": "launches birds from your wand",
+            "__v": "0"
+        },
+        {
+            "_id": "19",
+            "spell": "Babbling Curse ",
+            "type": "Curse",
+            "effect": "makes a person babble",
+            "__v": "0"
+        },
+        {
+            "_id": "20",
+            "spell": "Bombarda",
+            "type": "Spell",
+            "effect": "causes explosions",
+            "__v": "0"
+        },
+        {
+            "_id": "21",
+            "spell": "Bombarda Maxima",
+            "type": "Spell",
+            "effect": "causes large explosions",
+            "__v": "0"
+        },
+        {
+            "_id": "22",
+            "spell": "Bubble Head",
+            "type": "Charm",
+            "effect": "puts a person's head in a protective air bubble",
+            "__v": "0"
+        },
+        {
+            "_id": "23",
+            "spell": "Carpe Retractum",
+            "type": "Spell",
+            "effect": "shoots a rope from a wand to snag things",
+            "__v": "0"
+        },
+        {
+            "_id": "24",
+            "spell": "Caterwauling",
+            "type": "Charm",
+            "effect": "detects enemies and emits a scream",
+            "__v": "0"
+        },
+        {
+            "_id": "25",
+            "spell": "Cave Inimicum",
+            "type": "Charm",
+            "effect": "detects enemies and emits an alarm",
+            "__v": "0"
+        },
+        {
+            "_id": "26",
+            "spell": "Cheering",
+            "type": "Charm",
+            "effect": "makes a person happy and giddy",
+            "__v": "0"
+        },
+        {
+            "_id": "27",
+            "spell": "Cistem Aperio",
+            "type": "Spell",
+            "effect": "opens things",
+            "__v": "0"
+        },
+        {
+            "_id": "28",
+            "spell": "Colloportus",
+            "type": "Spell",
+            "effect": "locks doors",
+            "__v": "0"
+        },
+        {
+            "_id": "29",
+            "spell": "Colloshoo",
+            "type": "Spell",
+            "effect": "makes a person's shoes stick to the ground",
+            "__v": "0"
+        },
+        {
+            "_id": "30",
+            "spell": "Colovaria",
+            "type": "Charm",
+            "effect": "makes an object change colour",
+            "__v": "0"
+        },
+        {
+            "_id": "31",
+            "spell": "Confringo",
+            "type": "Curse",
+            "effect": "explode flames on target",
+            "__v": "0"
+        },
+        {
+            "_id": "32",
+            "spell": "Confundus",
+            "type": "Charm",
+            "effect": "used to confuse opponent",
+            "__v": "0"
+        },
+        {
+            "_id": "33",
+            "spell": "Conjunctivitis",
+            "type": "Curse",
+            "effect": "damages opponent's eyesight",
+            "__v": "0"
+        },
+        {
+            "_id": "34",
+            "spell": "Cornflake Skin",
+            "type": "Curse",
+            "effect": "gives a person cereal skin",
+            "__v": "0"
+        },
+        {
+            "_id": "35",
+            "spell": "Crucio",
+            "type": "Curse",
+            "effect": "tortures a person",
+            "__v": "0"
+        },
+        {
+            "_id": "36",
+            "spell": "Cushioning",
+            "type": "Charm",
+            "effect": "helps cushon a fall",
+            "__v": "0"
+        },
+        {
+            "_id": "37",
+            "spell": "Defodio",
+            "type": "Spell",
+            "effect": "dig out materials",
+            "__v": "0"
+        },
+        {
+            "_id": "38",
+            "spell": "Deletrius",
+            "type": "Spell",
+            "effect": "counters \"Prior Incantato\"",
+            "__v": "0"
+        },
+        {
+            "_id": "39",
+            "spell": "Densaugeo",
+            "type": "Spell",
+            "effect": "enlarges teeth",
+            "__v": "0"
+        },
+        {
+            "_id": "40",
+            "spell": "Deprimo",
+            "type": "Spell",
+            "effect": "wind damaging spell",
+            "__v": "0"
+        },
+        {
+            "_id": "41",
+            "spell": "Depulso",
+            "type": "Charm",
+            "effect": "drives an object away",
+            "__v": "0"
+        },
+        {
+            "_id": "42",
+            "spell": "Descendo",
+            "type": "Spell",
+            "effect": "moves an object downwards",
+            "__v": "0"
+        },
+        {
+            "_id": "43",
+            "spell": "Diffindo",
+            "type": "Spell",
+            "effect": "splits seams",
+            "__v": "0"
+        },
+        {
+            "_id": "44",
+            "spell": "Diminuendo",
+            "type": "Spell",
+            "effect": "shrinks the target",
+            "__v": "0"
+        },
+        {
+            "_id": "45",
+            "spell": "Dissendium",
+            "type": "Spell",
+            "effect": "opens passageways",
+            "__v": "0"
+        },
+        {
+            "_id": "46",
+            "spell": "Disillusionment",
+            "type": "Charm",
+            "effect": "makes the target blend into the surroundings",
+            "__v": "0"
+        },
+        {
+            "_id": "47",
+            "spell": "Duro",
+            "type": "Spell",
+            "effect": "makes objects hard",
+            "__v": "0"
+        },
+        {
+            "_id": "48",
+            "spell": "Drought",
+            "type": "Charm",
+            "effect": "dries up puddles",
+            "__v": "0"
+        },
+        {
+            "_id": "49",
+            "spell": "Ears to Kumquats",
+            "type": "Spell",
+            "effect": "gives a person kumquat ears",
+            "__v": "0"
+        },
+        {
+            "_id": "50",
+            "spell": "Ear Shriveling ",
+            "type": "Curse",
+            "effect": "cause a person's ear to shrivel",
+            "__v": "0"
+        },
+        {
+            "_id": "51",
+            "spell": "Engorgio",
+            "type": "Charm",
+            "effect": "enlarges an item",
+            "__v": "0"
+        },
+        {
+            "_id": "52",
+            "spell": "Ennervate",
+            "type": "Spell",
+            "effect": "counters Stupefy",
+            "__v": "0"
+        },
+        {
+            "_id": "53",
+            "spell": "Entrail-Expelling",
+            "type": "Curse",
+            "effect": "expel entrails from a body",
+            "__v": "0"
+        },
+        {
+            "_id": "54",
+            "spell": "Episkey",
+            "type": "Spell",
+            "effect": "heals minor injuries",
+            "__v": "0"
+        },
+        {
+            "_id": "55",
+            "spell": "Epoximise",
+            "type": "Spell",
+            "effect": "binds objects together",
+            "__v": "0"
+        },
+        {
+            "_id": "56",
+            "spell": "Erecto",
+            "type": "Spell",
+            "effect": "builds things",
+            "__v": "0"
+        },
+        {
+            "_id": "57",
+            "spell": "Evanesco",
+            "type": "Spell",
+            "effect": "makes things vanish",
+            "__v": "0"
+        },
+        {
+            "_id": "58",
+            "spell": "Everte Statum",
+            "type": "Spell",
+            "effect": "throws a victim backwards",
+            "__v": "0"
+        },
+        {
+            "_id": "59",
+            "spell": "Expecto Patronum",
+            "type": "Charm",
+            "effect": "creates a Patronus",
+            "__v": "0"
+        },
+        {
+            "_id": "60",
+            "spell": "Expelliarmus",
+            "type": "Charm",
+            "effect": "disarms your opponent",
+            "__v": "0"
+        },
+        {
+            "_id": "61",
+            "spell": "Expulso",
+            "type": "Spell",
+            "effect": "makes objects explode",
+            "__v": "0"
+        },
+        {
+            "_id": "62",
+            "spell": "Extinguishing",
+            "type": "Spell",
+            "effect": "puts out fires",
+            "__v": "0"
+        },
+        {
+            "_id": "63",
+            "spell": "Ferula",
+            "type": "Spell",
+            "effect": "creates bandages",
+            "__v": "0"
+        },
+        {
+            "_id": "64",
+            "spell": "Fianto Duri",
+            "type": "Charm",
+            "effect": "defensive charm",
+            "__v": "0"
+        },
+        {
+            "_id": "65",
+            "spell": "Fidelius",
+            "type": "Charm",
+            "effect": "hides a secret within someone",
+            "__v": "0"
+        },
+        {
+            "_id": "66",
+            "spell": "Fiendfyre",
+            "type": "Curse",
+            "effect": "hard to control large fire curse",
+            "__v": "0"
+        },
+        {
+            "_id": "67",
+            "spell": "Finestra",
+            "type": "Spell",
+            "effect": "turns windows to dust",
+            "__v": "0"
+        },
+        {
+            "_id": "68",
+            "spell": "Finite",
+            "type": "Spell",
+            "effect": "finishes spell in the caster's area",
+            "__v": "0"
+        },
+        {
+            "_id": "69",
+            "spell": "Finite Incantatum",
+            "type": "Spell",
+            "effect": "stops any current spells",
+            "__v": "0"
+        },
+        {
+            "_id": "70",
+            "spell": "Flagrante",
+            "type": "Curse",
+            "effect": "multiplies and burns objects upon touch",
+            "__v": "0"
+        },
+        {
+            "_id": "71",
+            "spell": "Flagrate",
+            "type": "Spell",
+            "effect": "allows user to write on objects",
+            "__v": "0"
+        },
+        {
+            "_id": "72",
+            "spell": "Flame Freezing",
+            "type": "Charm",
+            "effect": "makes flames cool",
+            "__v": "0"
+        },
+        {
+            "_id": "73",
+            "spell": "Flipendo",
+            "type": "Jinx",
+            "effect": "knocks an object backwards",
+            "__v": "0"
+        },
+        {
+            "_id": "74",
+            "spell": "Flying",
+            "type": "Charm",
+            "effect": "makes objects fly",
+            "__v": "0"
+        },
+        {
+            "_id": "75",
+            "spell": "Fumos",
+            "type": "Spell",
+            "effect": "a defensive cloud of smoke",
+            "__v": "0"
+        },
+        {
+            "_id": "76",
+            "spell": "Furnunculus",
+            "type": "Curse",
+            "effect": "produces boils on opponent",
+            "__v": "0"
+        },
+        {
+            "_id": "77",
+            "spell": "Geminio",
+            "type": "Spell",
+            "effect": "duplicates an object",
+            "__v": "0"
+        },
+        {
+            "_id": "78",
+            "spell": "Glisseo",
+            "type": "Spell",
+            "effect": "turns stairs into ramps",
+            "__v": "0"
+        },
+        {
+            "_id": "79",
+            "spell": "Gripping",
+            "type": "Charm",
+            "effect": "makes it easier to hold things",
+            "__v": "0"
+        },
+        {
+            "_id": "80",
+            "spell": "Harmonia Nectere Passus",
+            "type": "Spell",
+            "effect": "mends broken things",
+            "__v": "0"
+        },
+        {
+            "_id": "81",
+            "spell": "Homenum Revelio",
+            "type": "Spell",
+            "effect": "reveals humans nearby",
+            "__v": "0"
+        },
+        {
+            "_id": "82",
+            "spell": "Homonculous",
+            "type": "Charm",
+            "effect": "lets a person track another's movement on a map",
+            "__v": "0"
+        },
+        {
+            "_id": "83",
+            "spell": "Homorphus",
+            "type": "Charm",
+            "effect": "Lockhart's warewolf \"cure\"",
+            "__v": "0"
+        },
+        {
+            "_id": "84",
+            "spell": "Horcrux",
+            "type": "Curse",
+            "effect": "allows wizard to put their soul into an object",
+            "__v": "0"
+        },
+        {
+            "_id": "85",
+            "spell": "Illegibilus",
+            "type": "Spell",
+            "effect": "makes text unreadable",
+            "__v": "0"
+        },
+        {
+            "_id": "86",
+            "spell": "Immobulus",
+            "type": "Charm",
+            "effect": "renders target immobile",
+            "__v": "0"
+        },
+        {
+            "_id": "87",
+            "spell": "Impedimenta",
+            "type": "Charm",
+            "effect": "slows an advancing object",
+            "__v": "0"
+        },
+        {
+            "_id": "88",
+            "spell": "Imperio",
+            "type": "Curse",
+            "effect": "controls a person",
+            "__v": "0"
+        },
+        {
+            "_id": "89",
+            "spell": "Impervius",
+            "type": "Charm",
+            "effect": "makes an object repel water",
+            "__v": "0"
+        },
+        {
+            "_id": "90",
+            "spell": "Incarcerous",
+            "type": "Spell",
+            "effect": "ties someone up",
+            "__v": "0"
+        },
+        {
+            "_id": "91",
+            "spell": "Incendio",
+            "type": "Spell",
+            "effect": "starts a fire",
+            "__v": "0"
+        },
+        {
+            "_id": "92",
+            "spell": "Lacarnum Inflamarae",
+            "type": "Spell",
+            "effect": "shoots a fireball from caster's wand",
+            "__v": "0"
+        },
+        {
+            "_id": "93",
+            "spell": "Langlock",
+            "type": "Spell",
+            "effect": "glues opponent's tongue to roof of mouth",
+            "__v": "0"
+        },
+        {
+            "_id": "94",
+            "spell": "Legilimens",
+            "type": "Spell",
+            "effect": "allows caster to read the mind of the target",
+            "__v": "0"
+        },
+        {
+            "_id": "95",
+            "spell": "Levicorpus",
+            "type": "Spell",
+            "effect": "hangs target upside down by feet",
+            "__v": "0"
+        },
+        {
+            "_id": "96",
+            "spell": "Liberacorpus",
+            "type": "Spell",
+            "effect": "counter spell to Levicorpus",
+            "__v": "0"
+        },
+        {
+            "_id": "97",
+            "spell": "Locomotor Mortis",
+            "type": "Curse",
+            "effect": "locks opponent's legs",
+            "__v": "0"
+        },
+        {
+            "_id": "98",
+            "spell": "Lumos",
+            "type": "Spell",
+            "effect": "creates light at wand tip",
+            "__v": "0"
+        },
+        {
+            "_id": "99",
+            "spell": "Lumos Maxima",
+            "type": "Spell",
+            "effect": "creates ball of light that can brighten a room for a long period of time",
+            "__v": "0"
+        },
+        {
+            "_id": "100",
+            "spell": "Lumos Solem",
+            "type": "Spell",
+            "effect": "creates a strong beam of light from the wand",
+            "__v": "0"
+        },
+        {
+            "_id": "101",
+            "spell": "Meteolojinx Recanto",
+            "type": "Spell",
+            "effect": "causes weather effect spells to stop",
+            "__v": "0"
+        },
+        {
+            "_id": "102",
+            "spell": "Mimblewimble",
+            "type": "Curse",
+            "effect": "tongue ties it's target",
+            "__v": "0"
+        },
+        {
+            "_id": "103",
+            "spell": "Mobiliarbus",
+            "type": "Charm",
+            "effect": "moves objects with wand",
+            "__v": "0"
+        },
+        {
+            "_id": "104",
+            "spell": "Mobilicorpus",
+            "type": "Spell",
+            "effect": "moves unconcious bodies",
+            "__v": "0"
+        },
+        {
+            "_id": "105",
+            "spell": "Morsmorde",
+            "type": "Spell",
+            "effect": "conjures the dark mark",
+            "__v": "0"
+        },
+        {
+            "_id": "106",
+            "spell": "Morsmorde",
+            "type": "Spell",
+            "effect": "prevents nearby people from listening to conversations",
+            "__v": "0"
+        },
+        {
+            "_id": "107",
+            "spell": "Nox",
+            "type": "Spell",
+            "effect": "counter to Lumos, turns off light",
+            "__v": "0"
+        },
+        {
+            "_id": "108",
+            "spell": "Oculus Reparo",
+            "type": "Spell",
+            "effect": "repairs eyeglasses",
+            "__v": "0"
+        },
+        {
+            "_id": "109",
+            "spell": "Obliteration",
+            "type": "Charm",
+            "effect": "removes footprints",
+            "__v": "0"
+        },
+        {
+            "_id": "110",
+            "spell": "Obliviate",
+            "type": "Charm",
+            "effect": "erases memories",
+            "__v": "0"
+        },
+        {
+            "_id": "111",
+            "spell": "Obscuro",
+            "type": "Spell",
+            "effect": "blindfolds the victim",
+            "__v": "0"
+        },
+        {
+            "_id": "112",
+            "spell": "Oppugno",
+            "type": "Spell",
+            "effect": "makes conjured items attack",
+            "__v": "0"
+        },
+        {
+            "_id": "113",
+            "spell": "Orchideous",
+            "type": "Spell",
+            "effect": "conjures flowers",
+            "__v": "0"
+        },
+        {
+            "_id": "114",
+            "spell": "Periculum",
+            "type": "Spell",
+            "effect": "makes fireworks from the wand tip",
+            "__v": "0"
+        },
+        {
+            "_id": "115",
+            "spell": "Permanent Sticking",
+            "type": "Charm",
+            "effect": "causes items to permanently stick to things",
+            "__v": "0"
+        },
+        {
+            "_id": "116",
+            "spell": "Petrificus Totalus",
+            "type": "Spell",
+            "effect": "body bind",
+            "__v": "0"
+        },
+        {
+            "_id": "117",
+            "spell": "Piertotum Locomotor",
+            "type": "Spell",
+            "effect": "animates statues and suits of armor",
+            "__v": "0"
+        },
+        {
+            "_id": "118",
+            "spell": "Point Me",
+            "type": "Charm",
+            "effect": "wand acts like a compass",
+            "__v": "0"
+        },
+        {
+            "_id": "119",
+            "spell": "Portus",
+            "type": "Charm",
+            "effect": "makes an object a Portkey",
+            "__v": "0"
+        },
+        {
+            "_id": "120",
+            "spell": "Priori Incantatem",
+            "type": "Spell",
+            "effect": "when sibling wands duel, the weaker wand shows all recently cast spells",
+            "__v": "0"
+        },
+        {
+            "_id": "121",
+            "spell": "Prior Incantato",
+            "type": "Spell",
+            "effect": "reveals a wand's last spell",
+            "__v": "0"
+        },
+        {
+            "_id": "122",
+            "spell": "Protego",
+            "type": "Charm",
+            "effect": "cause spells to reflect back to the sender",
+            "__v": "0"
+        },
+        {
+            "_id": "123",
+            "spell": "Protego Totalum",
+            "type": "Charm",
+            "effect": "area protection charm",
+            "__v": "0"
+        },
+        {
+            "_id": "124",
+            "spell": "Quietus",
+            "type": "Spell",
+            "effect": "counter spell for Sonorous",
+            "__v": "0"
+        },
+        {
+            "_id": "125",
+            "spell": "Reducio",
+            "type": "Spell",
+            "effect": "returns items to original size. counters Engorgio",
+            "__v": "0"
+        },
+        {
+            "_id": "126",
+            "spell": "Reducto",
+            "type": "Spell",
+            "effect": "blasts solid objects aside",
+            "__v": "0"
+        },
+        {
+            "_id": "127",
+            "spell": "Relashio",
+            "type": "Spell",
+            "effect": "releases user from binding",
+            "__v": "0"
+        },
+        {
+            "_id": "128",
+            "spell": "Rennervate",
+            "type": "Spell",
+            "effect": "cures unconciousness",
+            "__v": "0"
+        },
+        {
+            "_id": "129",
+            "spell": "Reparo",
+            "type": "Spell",
+            "effect": "repairs things",
+            "__v": "0"
+        },
+        {
+            "_id": "130",
+            "spell": "Repello Muggletum",
+            "type": "Spell",
+            "effect": "keeps muggles away",
+            "__v": "0"
+        },
+        {
+            "_id": "131",
+            "spell": "Repello Inimicum",
+            "type": "Spell",
+            "effect": "keeps evil beings away",
+            "__v": "0"
+        },
+        {
+            "_id": "132",
+            "spell": "Revelio",
+            "type": "Spell",
+            "effect": "reveals hidden objects",
+            "__v": "0"
+        },
+        {
+            "_id": "133",
+            "spell": "Rictusempra",
+            "type": "Charm",
+            "effect": "tickles target",
+            "__v": "0"
+        },
+        {
+            "_id": "134",
+            "spell": "Riddikulus",
+            "type": "Spell",
+            "effect": "causes target to laugh and defeats Boggarts",
+            "__v": "0"
+        },
+        {
+            "_id": "135",
+            "spell": "Salvio Hexia",
+            "type": "Spell",
+            "effect": "protection against hexes",
+            "__v": "0"
+        },
+        {
+            "_id": "136",
+            "spell": "Scourgify",
+            "type": "Charm",
+            "effect": "cleaning charm",
+            "__v": "0"
+        },
+        {
+            "_id": "137",
+            "spell": "Sectumsempra",
+            "type": "Spell",
+            "effect": "causes wounds as if slashed by a sword",
+            "__v": "0"
+        },
+        {
+            "_id": "138",
+            "spell": "Serpensortia",
+            "type": "Spell",
+            "effect": "produces a snake",
+            "__v": "0"
+        },
+        {
+            "_id": "139",
+            "spell": "Silencio",
+            "type": "Spell",
+            "effect": "silences target",
+            "__v": "0"
+        },
+        {
+            "_id": "140",
+            "spell": "Slugulus Eructo",
+            "type": "Charm",
+            "effect": "makes target vomit slugs",
+            "__v": "0"
+        },
+        {
+            "_id": "141",
+            "spell": "Sonorus",
+            "type": "Spell",
+            "effect": "amplifies voice",
+            "__v": "0"
+        },
+        {
+            "_id": "142",
+            "spell": "Specialis Revelio",
+            "type": "Spell",
+            "effect": "reveals hidden secrets or magical properties",
+            "__v": "0"
+        },
+        {
+            "_id": "143",
+            "spell": "Stinging Jinx",
+            "type": "Jinx",
+            "effect": "makes target feel stinging",
+            "__v": "0"
+        },
+        {
+            "_id": "144",
+            "spell": "Stupefy",
+            "type": "Spell",
+            "effect": "knocks out target",
+            "__v": "0"
+        },
+        {
+            "_id": "145",
+            "spell": "Switching Spell",
+            "type": "Spell",
+            "effect": "switches objects",
+            "__v": "0"
+        },
+        {
+            "_id": "146",
+            "spell": "Tarantallegra",
+            "type": "Spell",
+            "effect": "forces target to dance",
+            "__v": "0"
+        },
+        {
+            "_id": "147",
+            "spell": "Tergeo",
+            "type": "Spell",
+            "effect": "cleans up messes",
+            "__v": "0"
+        },
+        {
+            "_id": "148",
+            "spell": "Unbreakable Vow",
+            "type": "Spell",
+            "effect": "a vow that if broken, kills you",
+            "__v": "0"
+        },
+        {
+            "_id": "149",
+            "spell": "Vulnera Sanentur",
+            "type": "Spell",
+            "effect": "heals target",
+            "__v": "0"
+        },
+        {
+            "_id": "150",
+            "spell": "Waddiwasi",
+            "type": "Spell",
+            "effect": "unsticks an object",
+            "__v": "0"
+        },
+        {
+            "_id": "151",
+            "spell": "Wingardium Leviosa",
+            "type": "Charm",
+            "effect": "makes an object fly",
+            "__v": "0"
+        }
+    ]
+}
