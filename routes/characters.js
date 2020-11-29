@@ -1,17 +1,28 @@
+const { rejects } = require('assert');
 const express = require('express');
 const router = express.Router();
 const path = require('path');
 
-const personajes = require('../utils/characters');
+const characters = require('../utils/characters');
 
-router.get('/', function (req, res) { res.send(personajes); });
+router.get('/', function (req, res) {
+    const { house } = req.query;
+    const filter = characters.filter(p => p.house.toLowerCase().replace(' ', '') === house.toLocaleLowerCase().replace(' ', ''))
+    if (filter.length > 0) {
+        return res.json(filter);
+    }
+    res.send(characters);
+});
 
 router.get("/:character", function (req, res) {
-    var character = req.params.character.toLowerCase().replace(' ', '')
-    let personaje = personajes.find(p => p.name.toLowerCase().replace(' ', '') === character)
+    let { character } = req.params
+    character = character.toLowerCase().replace(' ', '');
 
-    if (personaje) { res.send(personaje) }
-    res.redirect("/error")
+    let found = characters.find(p => p.name.toLowerCase().replace(' ', '') === character)
+
+    if (found) return res.status(200).json(found)
+
+    res.sendStatus(404)
 })
 
 module.exports = router;
