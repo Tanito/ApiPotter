@@ -1,5 +1,4 @@
-{
-    "Spells": [
+ [
         {
             "_id": "1",
             "spell": "Aberto",
@@ -1056,5 +1055,4 @@
             "effect": "makes an object fly",
             "__v": "0"
         }
-    ]
-}
+]

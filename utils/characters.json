@@ -12,7 +12,7 @@
     "deathEater": "0",
     "bloodStatus": "half-blood",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/harrypotter.jpg"
+    "image": "http://localhost:3000/img/harrypotter.jpg"
   },
   {
     "_id": "2",
@@ -27,7 +27,7 @@
     "deathEater": "0",
     "bloodStatus": "pure-blood",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/ronweasley.jpg"
+    "image": "http://localhost:3000/img/ronweasley.jpg"
   },
   {
     "_id": "3",
@@ -42,7 +42,7 @@
     "deathEater": "0",
     "bloodStatus": "muggle-born",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/hermionegranger.jpg"
+    "image": "http://localhost:3000/img/hermionegranger.jpg"
   },
   {
     "_id": "4",
@@ -57,7 +57,7 @@
     "deathEater": "0",
     "bloodStatus": "half-blood",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/hannahabbott.jpg"
+    "image": "http://localhost:3000/img/hannahabbott.jpg"
   },
   {
     "_id": "5",
@@ -72,7 +72,7 @@
     "deathEater": "0",
     "bloodStatus": "unknown",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/bathshedababbling.jpg"
+    "image": "http://localhost:3000/img/bathshedababbling.jpg"
   },
   {
     "_id": "6",
@@ -87,7 +87,7 @@
     "deathEater": "0",
     "bloodStatus": "unknown",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/ludovicbagman.jpg"
+    "image": "http://localhost:3000/img/ludovicbagman.jpg"
   },
   {
     "_id": "7",
@@ -102,7 +102,7 @@
     "deathEater": "0",
     "bloodStatus": "unknown",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/bathildabagshot.jpg"
+    "image": "http://localhost:3000/img/bathildabagshot.jpg"
   },
   {
     "_id": "8",
@@ -117,7 +117,7 @@
     "deathEater": "0",
     "bloodStatus": "pure-blood",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/katiebell.jpg"
+    "image": "http://localhost:3000/img/katiebell.jpg"
   },
   {
     "_id": "9",
@@ -132,7 +132,7 @@
     "deathEater": "0",
     "bloodStatus": "unknown",
     "species": "ghost",
-    "image": "https://apipotter.000webhostapp.com/images/cuthbertbinns.jpg"
+    "image": "http://localhost:3000/img/cuthbertbinns.jpg"
   },
   {
     "_id": "10",
@@ -147,7 +147,7 @@
     "deathEater": "0",
     "bloodStatus": "pure-blood",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/phineasnigellusblack.jpg"
+    "image": "http://localhost:3000/img/phineasnigellusblack.jpg"
   },
   {
     "_id": "11",
@@ -162,7 +162,7 @@
     "deathEater": "1",
     "bloodStatus": "pure-blood",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/regulusblack.jpg"
+    "image": "http://localhost:3000/img/regulusblack.jpg"
   },
   {
     "_id": "12",
@@ -177,7 +177,7 @@
     "deathEater": "0",
     "bloodStatus": "pure-blood",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/siriusblack.jpg"
+    "image": "http://localhost:3000/img/siriusblack.jpg"
   },
   {
     "_id": "13",
@@ -192,7 +192,7 @@
     "deathEater": "0",
     "bloodStatus": "unknown",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/ameliabones.jpg"
+    "image": "http://localhost:3000/img/ameliabones.jpg"
   },
   {
     "_id": "14",
@@ -207,7 +207,7 @@
     "deathEater": "0",
     "bloodStatus": "half-blood",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/susanbones.jpg"
+    "image": "http://localhost:3000/img/susanbones.jpg"
   },
   {
     "_id": "15",
@@ -222,7 +222,7 @@
     "deathEater": "0",
     "bloodStatus": "unknown",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/terryboot.jpg"
+    "image": "http://localhost:3000/img/terryboot.jpg"
   },
   {
     "_id": "16",
@@ -237,7 +237,7 @@
     "deathEater": "0",
     "bloodStatus": "pure-blood",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/lavenderbrown.jpg"
+    "image": "http://localhost:3000/img/lavenderbrown.jpg"
   },
   {
     "_id": "17",
@@ -252,7 +252,7 @@
     "deathEater": "0",
     "bloodStatus": "half-blood",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/millicentbulstrode.jpg"
+    "image": "http://localhost:3000/img/millicentbulstrode.jpg"
   },
   {
     "_id": "18",
@@ -267,7 +267,7 @@
     "deathEater": "0",
     "bloodStatus": "muggle",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/frankbryce.jpg"
+    "image": "http://localhost:3000/img/frankbryce.jpg"
   },
   {
     "_id": "19",
@@ -282,7 +282,7 @@
     "deathEater": "0",
     "bloodStatus": "unknown",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/charityburbage.jpg"
+    "image": "http://localhost:3000/img/charityburbage.jpg"
   },
   {
     "_id": "20",
@@ -297,7 +297,7 @@
     "deathEater": "1",
     "bloodStatus": "pure-blood",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/alectocarrow.jpg"
+    "image": "http://localhost:3000/img/alectocarrow.jpg"
   },
   {
     "_id": "21",
@@ -312,7 +312,7 @@
     "deathEater": "1",
     "bloodStatus": "pure-blood",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/amycuscarrow.jpg"
+    "image": "http://localhost:3000/img/amycuscarrow.jpg"
   },
   {
     "_id": "22",
@@ -327,7 +327,7 @@
     "deathEater": "0",
     "bloodStatus": "unknown",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/reginaldcattermole.jpg"
+    "image": "http://localhost:3000/img/reginaldcattermole.jpg"
   },
   {
     "_id": "23",
@@ -342,7 +342,7 @@
     "deathEater": "0",
     "bloodStatus": "unknown",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/marycattermole.jpg"
+    "image": "http://localhost:3000/img/marycattermole.jpg"
   },
   {
     "_id": "24",
@@ -357,7 +357,7 @@
     "deathEater": "0",
     "bloodStatus": "unknown",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/chochang.jpg"
+    "image": "http://localhost:3000/img/chochang.jpg"
   },
   {
     "_id": "25",
@@ -372,7 +372,7 @@
     "deathEater": "0",
     "bloodStatus": "unknown",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/penelopeclearwater.jpg"
+    "image": "http://localhost:3000/img/penelopeclearwater.jpg"
   },
   {
     "_id": "26",
@@ -387,7 +387,7 @@
     "deathEater": "0",
     "bloodStatus": "half-blood",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/michaelcorner.jpg"
+    "image": "http://localhost:3000/img/michaelcorner.jpg"
   },
   {
     "_id": "27",
@@ -402,7 +402,7 @@
     "deathEater": "1",
     "bloodStatus": "pure-blood",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/crabbe.jpg"
+    "image": "http://localhost:3000/img/crabbe.jpg"
   },
   {
     "_id": "28",
@@ -417,7 +417,7 @@
     "deathEater": "1",
     "bloodStatus": "pure-blood",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/vincentcrabbe.jpg"
+    "image": "http://localhost:3000/img/vincentcrabbe.jpg"
   },
   {
     "_id": "29",
@@ -432,7 +432,7 @@
     "deathEater": "0",
     "bloodStatus": "muggle-born",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/colincreevey.jpg"
+    "image": "http://localhost:3000/img/colincreevey.jpg"
   },
   {
     "_id": "30",
@@ -447,7 +447,7 @@
     "deathEater": "0",
     "bloodStatus": "muggle-born",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/denniscreevey.jpg"
+    "image": "http://localhost:3000/img/denniscreevey.jpg"
   },
   {
     "_id": "31",
@@ -462,7 +462,7 @@
     "deathEater": "0",
     "bloodStatus": "muggle-born",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/dirkcresswell.jpg"
+    "image": "http://localhost:3000/img/dirkcresswell.jpg"
   },
   {
     "_id": "32",
@@ -477,7 +477,7 @@
     "deathEater": "0",
     "bloodStatus": "pure-blood",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/bartemiuscrouchsr.jpg"
+    "image": "http://localhost:3000/img/bartemiuscrouchsr.jpg"
   },
   {
     "_id": "33",
@@ -492,7 +492,7 @@
     "deathEater": "1",
     "bloodStatus": "pure-blood",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/bartemiuscrouchjr.jpg"
+    "image": "http://localhost:3000/img/bartemiuscrouchjr.jpg"
   },
   {
     "_id": "34",
@@ -507,7 +507,7 @@
     "deathEater": "0",
     "bloodStatus": "unknown",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/johndawlish.jpg"
+    "image": "http://localhost:3000/img/johndawlish.jpg"
   },
   {
     "_id": "35",
@@ -522,7 +522,7 @@
     "deathEater": "0",
     "bloodStatus": "quarter-villa",
     "species": "part-human",
-    "image": "https://apipotter.000webhostapp.com/images/fleurdelacour.jpg"
+    "image": "http://localhost:3000/img/fleurdelacour.jpg"
   },
   {
     "_id": "36",
@@ -537,7 +537,7 @@
     "deathEater": "0",
     "bloodStatus": "quarter-villa",
     "species": "part-human",
-    "image": "https://apipotter.000webhostapp.com/images/gabrielledelacour.jpg"
+    "image": "http://localhost:3000/img/gabrielledelacour.jpg"
   },
   {
     "_id": "37",
@@ -552,7 +552,7 @@
     "deathEater": "0",
     "bloodStatus": "unknown",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/dedalusdiggle.jpg"
+    "image": "http://localhost:3000/img/dedalusdiggle.jpg"
   },
   {
     "_id": "38",
@@ -567,7 +567,7 @@
     "deathEater": "0",
     "bloodStatus": "pure-blood",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/amosdiggory.jpg"
+    "image": "http://localhost:3000/img/amosdiggory.jpg"
   },
   {
     "_id": "39",
@@ -582,7 +582,7 @@
     "deathEater": "0",
     "bloodStatus": "pure-blood",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/cedricdiggory.jpg"
+    "image": "http://localhost:3000/img/cedricdiggory.jpg"
   },
   {
     "_id": "40",
@@ -597,7 +597,7 @@
     "deathEater": "0",
     "bloodStatus": "pure-blood",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/elphiasdoge.jpg"
+    "image": "http://localhost:3000/img/elphiasdoge.jpg"
   },
   {
     "_id": "41",
@@ -612,7 +612,7 @@
     "deathEater": "1",
     "bloodStatus": "unknown",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/antonindolohov.jpg"
+    "image": "http://localhost:3000/img/antonindolohov.jpg"
   },
   {
     "_id": "42",
@@ -627,7 +627,7 @@
     "deathEater": "0",
     "bloodStatus": "half-blood",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/aberforthdumbledore.jpg"
+    "image": "http://localhost:3000/img/aberforthdumbledore.jpg"
   },
   {
     "_id": "43",
@@ -642,7 +642,7 @@
     "deathEater": "0",
     "bloodStatus": "half-blood",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/albusdumbledore.jpg"
+    "image": "http://localhost:3000/img/albusdumbledore.jpg"
   },
   {
     "_id": "44",
@@ -657,7 +657,7 @@
     "deathEater": "0",
     "bloodStatus": "half-blood",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/arianadumbledore.jpg"
+    "image": "http://localhost:3000/img/arianadumbledore.jpg"
   },
   {
     "_id": "45",
@@ -672,7 +672,7 @@
     "deathEater": "0",
     "bloodStatus": "muggle",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/dudleydursley.jpg"
+    "image": "http://localhost:3000/img/dudleydursley.jpg"
   },
   {
     "_id": "46",
@@ -687,7 +687,7 @@
     "deathEater": "0",
     "bloodStatus": "muggle",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/marjoriedursley.jpg"
+    "image": "http://localhost:3000/img/marjoriedursley.jpg"
   },
   {
     "_id": "47",
@@ -702,7 +702,7 @@
     "deathEater": "0",
     "bloodStatus": "muggle",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/petuniadursley.jpg"
+    "image": "http://localhost:3000/img/petuniadursley.jpg"
   },
   {
     "_id": "48",
@@ -717,7 +717,7 @@
     "deathEater": "0",
     "bloodStatus": "muggle",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/vernondursley.jpg"
+    "image": "http://localhost:3000/img/vernondursley.jpg"
   },
   {
     "_id": "49",
@@ -732,7 +732,7 @@
     "deathEater": "0",
     "bloodStatus": "unknown",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/mariettaedgecombe.jpg"
+    "image": "http://localhost:3000/img/mariettaedgecombe.jpg"
   },
   {
     "_id": "50",
@@ -747,7 +747,7 @@
     "deathEater": "0",
     "bloodStatus": "unknown",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/everard.jpg"
+    "image": "http://localhost:3000/img/everard.jpg"
   },
   {
     "_id": "51",
@@ -762,7 +762,7 @@
     "deathEater": "0",
     "bloodStatus": "squib",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/arabellafigg.jpg"
+    "image": "http://localhost:3000/img/arabellafigg.jpg"
   },
   {
     "_id": "52",
@@ -777,7 +777,7 @@
     "deathEater": "0",
     "bloodStatus": "squib",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/argusfilch.jpg"
+    "image": "http://localhost:3000/img/argusfilch.jpg"
   },
   {
     "_id": "53",
@@ -792,7 +792,7 @@
     "deathEater": "0",
     "bloodStatus": "unknown",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/justinfinch-fletchley.jpg"
+    "image": "http://localhost:3000/img/justinfinch-fletchley.jpg"
   },
   {
     "_id": "54",
@@ -807,7 +807,7 @@
     "deathEater": "0",
     "bloodStatus": "half-blood",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/seamusfinnigan.jpg"
+    "image": "http://localhost:3000/img/seamusfinnigan.jpg"
   },
   {
     "_id": "55",
@@ -822,7 +822,7 @@
     "deathEater": "0",
     "bloodStatus": "unknown",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/marcusflint.jpg"
+    "image": "http://localhost:3000/img/marcusflint.jpg"
   },
   {
     "_id": "56",
@@ -837,7 +837,7 @@
     "deathEater": "0",
     "bloodStatus": "unknown",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/nicolasflamel.jpg"
+    "image": "http://localhost:3000/img/nicolasflamel.jpg"
   },
   {
     "_id": "57",
@@ -852,7 +852,7 @@
     "deathEater": "0",
     "bloodStatus": "half-blood",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/mundungusfletcher.jpg"
+    "image": "http://localhost:3000/img/mundungusfletcher.jpg"
   },
   {
     "_id": "58",
@@ -867,7 +867,7 @@
     "deathEater": "0",
     "bloodStatus": "unknown",
     "species": "part-goblin",
-    "image": "https://apipotter.000webhostapp.com/images/filiusflitwick.jpg"
+    "image": "http://localhost:3000/img/filiusflitwick.jpg"
   },
   {
     "_id": "59",
@@ -882,7 +882,7 @@
     "deathEater": "0",
     "bloodStatus": "unknown",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/corneliusfudge.jpg"
+    "image": "http://localhost:3000/img/corneliusfudge.jpg"
   },
   {
     "_id": "60",
@@ -897,7 +897,7 @@
     "deathEater": "0",
     "bloodStatus": "pure-blood",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/marvologaunt.jpg"
+    "image": "http://localhost:3000/img/marvologaunt.jpg"
   },
   {
     "_id": "61",
@@ -912,7 +912,7 @@
     "deathEater": "0",
     "bloodStatus": "pure-blood",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/meropegaunt.jpg"
+    "image": "http://localhost:3000/img/meropegaunt.jpg"
   },
   {
     "_id": "62",
@@ -927,7 +927,7 @@
     "deathEater": "0",
     "bloodStatus": "pure-blood",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/morfingaunt.jpg"
+    "image": "http://localhost:3000/img/morfingaunt.jpg"
   },
   {
     "_id": "63",
@@ -942,7 +942,7 @@
     "deathEater": "0",
     "bloodStatus": "half-blood",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/anthonygoldstein.jpg"
+    "image": "http://localhost:3000/img/anthonygoldstein.jpg"
   },
   {
     "_id": "64",
@@ -957,7 +957,7 @@
     "deathEater": "1",
     "bloodStatus": "pure-blood",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/goylesr.jpg"
+    "image": "http://localhost:3000/img/goylesr.jpg"
   },
   {
     "_id": "65",
@@ -972,7 +972,7 @@
     "deathEater": "1",
     "bloodStatus": "pure-blood",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/gregorygoyle.jpg"
+    "image": "http://localhost:3000/img/gregorygoyle.jpg"
   },
   {
     "_id": "66",
@@ -1002,7 +1002,7 @@
     "deathEater": "0",
     "bloodStatus": "unknown",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/mykewgregorovitch.jpg"
+    "image": "http://localhost:3000/img/mykewgregorovitch.jpg"
   },
   {
     "_id": "68",
@@ -1017,7 +1017,7 @@
     "deathEater": "1",
     "bloodStatus": "unknown",
     "species": "werewolf",
-    "image": "https://apipotter.000webhostapp.com/images/fenrirgreyback.jpg"
+    "image": "http://localhost:3000/img/fenrirgreyback.jpg"
   },
   {
     "_id": "69",
@@ -1032,7 +1032,7 @@
     "deathEater": "0",
     "bloodStatus": "unknown",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/gellertgrindelwald.jpg"
+    "image": "http://localhost:3000/img/gellertgrindelwald.jpg"
   },
   {
     "_id": "70",
@@ -1047,7 +1047,7 @@
     "deathEater": "0",
     "bloodStatus": "unknown",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/wilhelminagrubbly-plank.jpg"
+    "image": "http://localhost:3000/img/wilhelminagrubbly-plank.jpg"
   },
   {
     "_id": "71",
@@ -1062,7 +1062,7 @@
     "deathEater": "0",
     "bloodStatus": "unknown",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/godricgryffindor.jpg"
+    "image": "http://localhost:3000/img/godricgryffindor.jpg"
   },
   {
     "_id": "72",
@@ -1077,7 +1077,7 @@
     "deathEater": "0",
     "bloodStatus": "unknown",
     "species": "half-giant",
-    "image": "https://apipotter.000webhostapp.com/images/rubeushagrid.jpg"
+    "image": "http://localhost:3000/img/rubeushagrid.jpg"
   },
   {
     "_id": "73",
@@ -1092,7 +1092,7 @@
     "deathEater": "0",
     "bloodStatus": "unknown",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/rolandahooch.jpg"
+    "image": "http://localhost:3000/img/rolandahooch.jpg"
   },
   {
     "_id": "74",
@@ -1107,7 +1107,7 @@
     "deathEater": "0",
     "bloodStatus": "unknown",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/mafaldahopkirk.jpg"
+    "image": "http://localhost:3000/img/mafaldahopkirk.jpg"
   },
   {
     "_id": "75",
@@ -1122,7 +1122,7 @@
     "deathEater": "0",
     "bloodStatus": "unknown",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/helgahufflepuff.jpg"
+    "image": "http://localhost:3000/img/helgahufflepuff.jpg"
   },
   {
     "_id": "76",
@@ -1137,7 +1137,7 @@
     "deathEater": "0",
     "bloodStatus": "unknown",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/angelinajohnson.jpg"
+    "image": "http://localhost:3000/img/angelinajohnson.jpg"
   },
   {
     "_id": "77",
@@ -1152,7 +1152,7 @@
     "deathEater": "0",
     "bloodStatus": "unknown",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/leejordan.jpg"
+    "image": "http://localhost:3000/img/leejordan.jpg"
   },
   {
     "_id": "78",
@@ -1167,7 +1167,7 @@
     "deathEater": "0",
     "bloodStatus": "unknown",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/berthajorkins.jpg"
+    "image": "http://localhost:3000/img/berthajorkins.jpg"
   },
   {
     "_id": "79",
@@ -1182,7 +1182,7 @@
     "deathEater": "1",
     "bloodStatus": "unknown",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/igorkarkaroff.jpg"
+    "image": "http://localhost:3000/img/igorkarkaroff.jpg"
   },
   {
     "_id": "80",
@@ -1197,7 +1197,7 @@
     "deathEater": "0",
     "bloodStatus": "unknown",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/viktorkrum.jpg"
+    "image": "http://localhost:3000/img/viktorkrum.jpg"
   },
   {
     "_id": "81",
@@ -1212,7 +1212,7 @@
     "deathEater": "1",
     "bloodStatus": "pure-blood",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/bellatrixlestrange.jpg"
+    "image": "http://localhost:3000/img/bellatrixlestrange.jpg"
   },
   {
     "_id": "82",
@@ -1227,7 +1227,7 @@
     "deathEater": "1",
     "bloodStatus": "pure-blood",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/rabastanlestrange.jpg"
+    "image": "http://localhost:3000/img/rabastanlestrange.jpg"
   },
   {
     "_id": "83",
@@ -1242,7 +1242,7 @@
     "deathEater": "1",
     "bloodStatus": "pure-blood",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/rodolphuslestrange.jpg"
+    "image": "http://localhost:3000/img/rodolphuslestrange.jpg"
   },
   {
     "_id": "84",
@@ -1257,7 +1257,7 @@
     "deathEater": "0",
     "bloodStatus": "half-blood",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/gilderoylockhart.jpg"
+    "image": "http://localhost:3000/img/gilderoylockhart.jpg"
   },
   {
     "_id": "85",
@@ -1272,7 +1272,7 @@
     "deathEater": "0",
     "bloodStatus": "pure-blood",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/alicelongbottom.jpg"
+    "image": "http://localhost:3000/img/alicelongbottom.jpg"
   },
   {
     "_id": "86",
@@ -1287,7 +1287,7 @@
     "deathEater": "0",
     "bloodStatus": "pure-blood",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/franklongbottom.jpg"
+    "image": "http://localhost:3000/img/franklongbottom.jpg"
   },
   {
     "_id": "87",
@@ -1302,7 +1302,7 @@
     "deathEater": "0",
     "bloodStatus": "pure-blood",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/augustalongbottom.jpg"
+    "image": "http://localhost:3000/img/augustalongbottom.jpg"
   },
   {
     "_id": "88",
@@ -1317,7 +1317,7 @@
     "deathEater": "0",
     "bloodStatus": "pure-blood",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/nevillelongbottom.jpg"
+    "image": "http://localhost:3000/img/nevillelongbottom.jpg"
   },
   {
     "_id": "89",
@@ -1332,7 +1332,7 @@
     "deathEater": "0",
     "bloodStatus": "unknown",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/lunalovegood.jpg"
+    "image": "http://localhost:3000/img/lunalovegood.jpg"
   },
   {
     "_id": "90",
@@ -1347,7 +1347,7 @@
     "deathEater": "0",
     "bloodStatus": "unknown",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/xenophiliuslovegood.jpg"
+    "image": "http://localhost:3000/img/xenophiliuslovegood.jpg"
   },
   {
     "_id": "91",
@@ -1362,7 +1362,7 @@
     "deathEater": "0",
     "bloodStatus": "half-blood",
     "species": "werewolf",
-    "image": "https://apipotter.000webhostapp.com/images/remuslupin.jpg"
+    "image": "http://localhost:3000/img/remuslupin.jpg"
   },
   {
     "_id": "92",
@@ -1377,7 +1377,7 @@
     "deathEater": "1",
     "bloodStatus": "unknown",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/waldenmacnair.jpg"
+    "image": "http://localhost:3000/img/waldenmacnair.jpg"
   },
   {
     "_id": "93",
@@ -1392,7 +1392,7 @@
     "deathEater": "1",
     "bloodStatus": "pure-blood",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/dracomalfoy.jpg"
+    "image": "http://localhost:3000/img/dracomalfoy.jpg"
   },
   {
     "_id": "94",
@@ -1407,7 +1407,7 @@
     "deathEater": "1",
     "bloodStatus": "pure-blood",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/luciusmalfoy.jpg"
+    "image": "http://localhost:3000/img/luciusmalfoy.jpg"
   },
   {
     "_id": "95",
@@ -1422,7 +1422,7 @@
     "deathEater": "1",
     "bloodStatus": "pure-blood",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/narcissamalfoy.jpg"
+    "image": "http://localhost:3000/img/narcissamalfoy.jpg"
   },
   {
     "_id": "96",
@@ -1437,7 +1437,7 @@
     "deathEater": "0",
     "bloodStatus": "unknown",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/madammalkin.jpg"
+    "image": "http://localhost:3000/img/madammalkin.jpg"
   },
   {
     "_id": "97",
@@ -1452,7 +1452,7 @@
     "deathEater": "0",
     "bloodStatus": "half-giant",
     "species": "half-giant",
-    "image": "https://apipotter.000webhostapp.com/images/olympemaxime.jpg"
+    "image": "http://localhost:3000/img/olympemaxime.jpg"
   },
   {
     "_id": "98",
@@ -1467,7 +1467,7 @@
     "deathEater": "0",
     "bloodStatus": "pure-blood",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/ernestmacmillan.jpg"
+    "image": "http://localhost:3000/img/ernestmacmillan.jpg"
   },
   {
     "_id": "99",
@@ -1482,7 +1482,7 @@
     "deathEater": "0",
     "bloodStatus": "half-blood",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/minervamcgonagall.jpg"
+    "image": "http://localhost:3000/img/minervamcgonagall.jpg"
   },
   {
     "_id": "100",
@@ -1497,7 +1497,7 @@
     "deathEater": "0",
     "bloodStatus": "pure-blood",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/alastormoody.jpg"
+    "image": "http://localhost:3000/img/alastormoody.jpg"
   },
   {
     "_id": "101",
@@ -1512,7 +1512,7 @@
     "deathEater": "0",
     "bloodStatus": "pure-blood",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/theodorenott.jpg"
+    "image": "http://localhost:3000/img/theodorenott.jpg"
   },
   {
     "_id": "102",
@@ -1527,7 +1527,7 @@
     "deathEater": "0",
     "bloodStatus": "half-blood",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/garrickollivander.jpg"
+    "image": "http://localhost:3000/img/garrickollivander.jpg"
   },
   {
     "_id": "103",
@@ -1542,7 +1542,7 @@
     "deathEater": "0",
     "bloodStatus": "unknown",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/pansyparkinson.jpg"
+    "image": "http://localhost:3000/img/pansyparkinson.jpg"
   },
   {
     "_id": "104",
@@ -1557,7 +1557,7 @@
     "deathEater": "0",
     "bloodStatus": "unknown",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/padmapatil.jpg"
+    "image": "http://localhost:3000/img/padmapatil.jpg"
   },
   {
     "_id": "105",
@@ -1572,7 +1572,7 @@
     "deathEater": "0",
     "bloodStatus": "unknown",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/parvatipatil.jpg"
+    "image": "http://localhost:3000/img/parvatipatil.jpg"
   },
   {
     "_id": "106",
@@ -1587,7 +1587,7 @@
     "deathEater": "1",
     "bloodStatus": "unknown",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/peterpettigrew.jpg"
+    "image": "http://localhost:3000/img/peterpettigrew.jpg"
   },
   {
     "_id": "107",
@@ -1602,7 +1602,7 @@
     "deathEater": "0",
     "bloodStatus": "pure-blood",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/antiochpeverell.jpg"
+    "image": "http://localhost:3000/img/antiochpeverell.jpg"
   },
   {
     "_id": "108",
@@ -1617,7 +1617,7 @@
     "deathEater": "0",
     "bloodStatus": "pure-blood",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/cadmuspeverell.jpg"
+    "image": "http://localhost:3000/img/cadmuspeverell.jpg"
   },
   {
     "_id": "109",
@@ -1632,7 +1632,7 @@
     "deathEater": "0",
     "bloodStatus": "pure-blood",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/ignotuspeverell.jpg"
+    "image": "http://localhost:3000/img/ignotuspeverell.jpg"
   },
   {
     "_id": "110",
@@ -1647,7 +1647,7 @@
     "deathEater": "0",
     "bloodStatus": "unknown",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/irmapince.jpg"
+    "image": "http://localhost:3000/img/irmapince.jpg"
   },
   {
     "_id": "111",
@@ -1662,7 +1662,7 @@
     "deathEater": "0",
     "bloodStatus": "unknown",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/sturgispodmore.jpg"
+    "image": "http://localhost:3000/img/sturgispodmore.jpg"
   },
   {
     "_id": "112",
@@ -1677,7 +1677,7 @@
     "deathEater": "0",
     "bloodStatus": "unknown",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/poppypomfrey.jpg"
+    "image": "http://localhost:3000/img/poppypomfrey.jpg"
   },
   {
     "_id": "113",
@@ -1692,7 +1692,7 @@
     "deathEater": "0",
     "bloodStatus": "pure-blood",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/jamespotter1.jpg"
+    "image": "http://localhost:3000/img/jamespotter1.jpg"
   },
   {
     "_id": "114",
@@ -1707,7 +1707,7 @@
     "deathEater": "0",
     "bloodStatus": "muggle-born",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/lilyjpotter.jpg"
+    "image": "http://localhost:3000/img/lilyjpotter.jpg"
   },
   {
     "_id": "115",
@@ -1722,7 +1722,7 @@
     "deathEater": "0",
     "bloodStatus": "unknown",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/ernestprang.jpg"
+    "image": "http://localhost:3000/img/ernestprang.jpg"
   },
   {
     "_id": "116",
@@ -1737,7 +1737,7 @@
     "deathEater": "0",
     "bloodStatus": "half-blood",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/quirinusquirrell.jpg"
+    "image": "http://localhost:3000/img/quirinusquirrell.jpg"
   },
   {
     "_id": "117",
@@ -1752,7 +1752,7 @@
     "deathEater": "0",
     "bloodStatus": "unknown",
     "species": "ghost",
-    "image": "https://apipotter.000webhostapp.com/images/helenaravenclaw.jpg"
+    "image": "http://localhost:3000/img/helenaravenclaw.jpg"
   },
   {
     "_id": "118",
@@ -1767,7 +1767,7 @@
     "deathEater": "0",
     "bloodStatus": "unknown",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/rowenaravenclaw.jpg"
+    "image": "http://localhost:3000/img/rowenaravenclaw.jpg"
   },
   {
     "_id": "119",
@@ -1782,7 +1782,7 @@
     "deathEater": "0",
     "bloodStatus": "muggle",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/maryriddle.jpg"
+    "image": "http://localhost:3000/img/maryriddle.jpg"
   },
   {
     "_id": "120",
@@ -1797,7 +1797,7 @@
     "deathEater": "0",
     "bloodStatus": "muggle",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/thomasriddle.jpg"
+    "image": "http://localhost:3000/img/thomasriddle.jpg"
   },
   {
     "_id": "121",
@@ -1812,7 +1812,7 @@
     "deathEater": "0",
     "bloodStatus": "muggle",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/tomriddlesr.jpg"
+    "image": "http://localhost:3000/img/tomriddlesr.jpg"
   },
   {
     "_id": "122",
@@ -1827,7 +1827,7 @@
     "deathEater": "1",
     "bloodStatus": "half-blood",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/tomriddle.jpg"
+    "image": "http://localhost:3000/img/tomriddle.jpg"
   },
   {
     "_id": "123",
@@ -1842,7 +1842,7 @@
     "deathEater": "0",
     "bloodStatus": "unknown",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/demelzarobins.jpg"
+    "image": "http://localhost:3000/img/demelzarobins.jpg"
   },
   {
     "_id": "124",
@@ -1857,7 +1857,7 @@
     "deathEater": "1",
     "bloodStatus": "unknown",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/augustusrockwood.jpg"
+    "image": "http://localhost:3000/img/augustusrockwood.jpg"
   },
   {
     "_id": "125",
@@ -1872,7 +1872,7 @@
     "deathEater": "0",
     "bloodStatus": "pure-blood",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/albertruncorn.jpg"
+    "image": "http://localhost:3000/img/albertruncorn.jpg"
   },
   {
     "_id": "126",
@@ -1887,7 +1887,7 @@
     "deathEater": "0",
     "bloodStatus": "unknown",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/scabior.jpg"
+    "image": "http://localhost:3000/img/scabior.jpg"
   },
   {
     "_id": "127",
@@ -1902,7 +1902,7 @@
     "deathEater": "0",
     "bloodStatus": "unknown",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/newtonscamander.jpg"
+    "image": "http://localhost:3000/img/newtonscamander.jpg"
   },
   {
     "_id": "128",
@@ -1917,7 +1917,7 @@
     "deathEater": "0",
     "bloodStatus": "unknown",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/rufusscrimgeour.jpg"
+    "image": "http://localhost:3000/img/rufusscrimgeour.jpg"
   },
   {
     "_id": "129",
@@ -1932,7 +1932,7 @@
     "deathEater": "0",
     "bloodStatus": "pure-blood",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/kingsleyshacklebolt.jpg"
+    "image": "http://localhost:3000/img/kingsleyshacklebolt.jpg"
   },
   {
     "_id": "130",
@@ -1947,7 +1947,7 @@
     "deathEater": "0",
     "bloodStatus": "unknown",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/stanleyshunpike.jpg"
+    "image": "http://localhost:3000/img/stanleyshunpike.jpg"
   },
   {
     "_id": "131",
@@ -1962,7 +1962,7 @@
     "deathEater": "0",
     "bloodStatus": "unknown",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/aurorasinistra.jpg"
+    "image": "http://localhost:3000/img/aurorasinistra.jpg"
   },
   {
     "_id": "132",
@@ -1977,7 +1977,7 @@
     "deathEater": "0",
     "bloodStatus": "unknown",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/ritaskeeter.jpg"
+    "image": "http://localhost:3000/img/ritaskeeter.jpg"
   },
   {
     "_id": "133",
@@ -1992,7 +1992,7 @@
     "deathEater": "0",
     "bloodStatus": "unknown",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/horaceslughorn.jpg"
+    "image": "http://localhost:3000/img/horaceslughorn.jpg"
   },
   {
     "_id": "134",
@@ -2007,7 +2007,7 @@
     "deathEater": "0",
     "bloodStatus": "pure-blood",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/salazarslytherin.jpg"
+    "image": "http://localhost:3000/img/salazarslytherin.jpg"
   },
   {
     "_id": "135",
@@ -2022,7 +2022,7 @@
     "deathEater": "0",
     "bloodStatus": "unknown",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/hepzibahsmith.jpg"
+    "image": "http://localhost:3000/img/hepzibahsmith.jpg"
   },
   {
     "_id": "136",
@@ -2037,7 +2037,7 @@
     "deathEater": "0",
     "bloodStatus": "unknown",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/zachariassmith.jpg"
+    "image": "http://localhost:3000/img/zachariassmith.jpg"
   },
   {
     "_id": "137",
@@ -2052,7 +2052,7 @@
     "deathEater": "1",
     "bloodStatus": "half-blood",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/severussnape.jpg"
+    "image": "http://localhost:3000/img/severussnape.jpg"
   },
   {
     "_id": "138",
@@ -2067,7 +2067,7 @@
     "deathEater": "0",
     "bloodStatus": "unknown",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/aliciaspinnet.jpg"
+    "image": "http://localhost:3000/img/aliciaspinnet.jpg"
   },
   {
     "_id": "139",
@@ -2082,7 +2082,7 @@
     "deathEater": "0",
     "bloodStatus": "unknown",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/pomonasprout.jpg"
+    "image": "http://localhost:3000/img/pomonasprout.jpg"
   },
   {
     "_id": "140",
@@ -2097,7 +2097,7 @@
     "deathEater": "0",
     "bloodStatus": "unknown",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/piusthicknesse.jpg"
+    "image": "http://localhost:3000/img/piusthicknesse.jpg"
   },
   {
     "_id": "141",
@@ -2112,7 +2112,7 @@
     "deathEater": "0",
     "bloodStatus": "half-blood",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/deanthomas.jpg"
+    "image": "http://localhost:3000/img/deanthomas.jpg"
   },
   {
     "_id": "142",
@@ -2127,7 +2127,7 @@
     "deathEater": "0",
     "bloodStatus": "pure-blood",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/andromedatonks.jpg"
+    "image": "http://localhost:3000/img/andromedatonks.jpg"
   },
   {
     "_id": "143",
@@ -2142,7 +2142,7 @@
     "deathEater": "0",
     "bloodStatus": "half-blood",
     "species": "human (metamorphmagus)",
-    "image": "https://apipotter.000webhostapp.com/images/nymphadoratonks.jpg"
+    "image": "http://localhost:3000/img/nymphadoratonks.jpg"
   },
   {
     "_id": "144",
@@ -2157,7 +2157,7 @@
     "deathEater": "0",
     "bloodStatus": "muggle-born",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/edwardtonks.jpg"
+    "image": "http://localhost:3000/img/edwardtonks.jpg"
   },
   {
     "_id": "145",
@@ -2172,7 +2172,7 @@
     "deathEater": "1",
     "bloodStatus": "unknown",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/travers.jpg"
+    "image": "http://localhost:3000/img/travers.jpg"
   },
   {
     "_id": "146",
@@ -2187,7 +2187,7 @@
     "deathEater": "0",
     "bloodStatus": "half-blood",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/sybilltrelawney.jpg"
+    "image": "http://localhost:3000/img/sybilltrelawney.jpg"
   },
   {
     "_id": "147",
@@ -2202,7 +2202,7 @@
     "deathEater": "0",
     "bloodStatus": "half-blood",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/doloresumbridge.jpg"
+    "image": "http://localhost:3000/img/doloresumbridge.jpg"
   },
   {
     "_id": "148",
@@ -2217,7 +2217,7 @@
     "deathEater": "0",
     "bloodStatus": "unknown",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/emmelinevance.jpg"
+    "image": "http://localhost:3000/img/emmelinevance.jpg"
   },
   {
     "_id": "149",
@@ -2232,7 +2232,7 @@
     "deathEater": "0",
     "bloodStatus": "unknown",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/romildavane.jpg"
+    "image": "http://localhost:3000/img/romildavane.jpg"
   },
   {
     "_id": "150",
@@ -2247,7 +2247,7 @@
     "deathEater": "0",
     "bloodStatus": "unknown",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/septimavector.jpg"
+    "image": "http://localhost:3000/img/septimavector.jpg"
   },
   {
     "_id": "151",
@@ -2262,7 +2262,7 @@
     "deathEater": "0",
     "bloodStatus": "pure-blood",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/arthurweasley.jpg"
+    "image": "http://localhost:3000/img/arthurweasley.jpg"
   },
   {
     "_id": "152",
@@ -2277,7 +2277,7 @@
     "deathEater": "0",
     "bloodStatus": "pure-blood",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/williamweasley.jpg"
+    "image": "http://localhost:3000/img/williamweasley.jpg"
   },
   {
     "_id": "153",
@@ -2292,7 +2292,7 @@
     "deathEater": "0",
     "bloodStatus": "pure-blood",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/charlesweasley.jpg"
+    "image": "http://localhost:3000/img/charlesweasley.jpg"
   },
   {
     "_id": "154",
@@ -2307,7 +2307,7 @@
     "deathEater": "0",
     "bloodStatus": "pure-blood",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/fredweasley.jpg"
+    "image": "http://localhost:3000/img/fredweasley.jpg"
   },
   {
     "_id": "155",
@@ -2322,7 +2322,7 @@
     "deathEater": "0",
     "bloodStatus": "pure-blood",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/georgeweasley.jpg"
+    "image": "http://localhost:3000/img/georgeweasley.jpg"
   },
   {
     "_id": "156",
@@ -2337,7 +2337,7 @@
     "deathEater": "0",
     "bloodStatus": "pure-blood",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/ginevraweasley.jpg"
+    "image": "http://localhost:3000/img/ginevraweasley.jpg"
   },
   {
     "_id": "157",
@@ -2352,7 +2352,7 @@
     "deathEater": "0",
     "bloodStatus": "pure-blood",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/mollyweasley.jpg"
+    "image": "http://localhost:3000/img/mollyweasley.jpg"
   },
   {
     "_id": "158",
@@ -2367,7 +2367,7 @@
     "deathEater": "0",
     "bloodStatus": "pure-blood",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/percyweasley.jpg"
+    "image": "http://localhost:3000/img/percyweasley.jpg"
   },
   {
     "_id": "159",
@@ -2382,7 +2382,7 @@
     "deathEater": "0",
     "bloodStatus": "unknown",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/oliverwood.jpg"
+    "image": "http://localhost:3000/img/oliverwood.jpg"
   },
   {
     "_id": "160",
@@ -2397,7 +2397,7 @@
     "deathEater": "0",
     "bloodStatus": "unknown",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/kennilworthywhisp.jpg"
+    "image": "http://localhost:3000/img/kennilworthywhisp.jpg"
   },
   {
     "_id": "161",
@@ -2412,7 +2412,7 @@
     "deathEater": "1",
     "bloodStatus": "unknown",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/corbanyaxley.jpg"
+    "image": "http://localhost:3000/img/corbanyaxley.jpg"
   },
   {
     "_id": "162",
@@ -2427,7 +2427,7 @@
     "deathEater": "0",
     "bloodStatus": "unknown",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/blaisezabini.jpg"
+    "image": "http://localhost:3000/img/blaisezabini.jpg"
   },
   {
     "_id": "163",
@@ -2442,7 +2442,7 @@
     "deathEater": "0",
     "bloodStatus": "unknown",
     "species": "acromantula",
-    "image": "https://apipotter.000webhostapp.com/images/aragog.jpg"
+    "image": "http://localhost:3000/img/aragog.jpg"
   },
   {
     "_id": "164",
@@ -2457,7 +2457,7 @@
     "deathEater": "0",
     "bloodStatus": "unknown",
     "species": "centaur",
-    "image": "https://apipotter.000webhostapp.com/images/bane.jpg"
+    "image": "http://localhost:3000/img/bane.jpg"
   },
   {
     "_id": "165",
@@ -2472,7 +2472,7 @@
     "deathEater": "0",
     "bloodStatus": "unknown",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/beedlethebard.jpg"
+    "image": "http://localhost:3000/img/beedlethebard.jpg"
   },
   {
     "_id": "166",
@@ -2487,7 +2487,7 @@
     "deathEater": "0",
     "bloodStatus": "unknown",
     "species": "ghost",
-    "image": "https://apipotter.000webhostapp.com/images/bloodybaron.jpg"
+    "image": "http://localhost:3000/img/bloodybaron.jpg"
   },
   {
     "_id": "167",
@@ -2502,7 +2502,7 @@
     "deathEater": "0",
     "bloodStatus": "unknown",
     "species": "hippogriff",
-    "image": "https://apipotter.000webhostapp.com/images/buckbeak.jpg"
+    "image": "http://localhost:3000/img/buckbeak.jpg"
   },
   {
     "_id": "168",
@@ -2517,7 +2517,7 @@
     "deathEater": "0",
     "bloodStatus": "pure-blood",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/cadogan.jpg"
+    "image": "http://localhost:3000/img/cadogan.jpg"
   },
   {
     "_id": "169",
@@ -2532,7 +2532,7 @@
     "deathEater": "0",
     "bloodStatus": "unknown",
     "species": "cat",
-    "image": "https://apipotter.000webhostapp.com/images/crookshanks.jpg"
+    "image": "http://localhost:3000/img/crookshanks.jpg"
   },
   {
     "_id": "170",
@@ -2547,7 +2547,7 @@
     "deathEater": "0",
     "bloodStatus": "unknown",
     "species": "house'-elf",
-    "image": "https://apipotter.000webhostapp.com/images/dobby.jpg"
+    "image": "http://localhost:3000/img/dobby.jpg"
   },
   {
     "_id": "171",
@@ -2562,7 +2562,7 @@
     "deathEater": "0",
     "bloodStatus": "unknown",
     "species": "Great Grey Owl",
-    "image": "https://apipotter.000webhostapp.com/images/errol.jpg"
+    "image": "http://localhost:3000/img/errol.jpg"
   },
   {
     "_id": "172",
@@ -2577,7 +2577,7 @@
     "deathEater": "0",
     "bloodStatus": "unknown",
     "species": "Boarhound",
-    "image": "https://apipotter.000webhostapp.com/images/fang.jpg"
+    "image": "http://localhost:3000/img/fang.jpg"
   },
   {
     "_id": "173",
@@ -2592,11 +2592,11 @@
     "deathEater": "0",
     "bloodStatus": "unknown",
     "species": "ghost",
-    "image": "https://apipotter.000webhostapp.com/images/fatfriar.jpg"
+    "image": "http://localhost:3000/img/fatfriar.jpg"
   },
   {
     "_id": "174",
-    "name": "Fridfwulfa",
+    "name": "Fridwulfa",
     "role": "undefined",
     "house": "undefined",
     "school": "undefined",
@@ -2607,7 +2607,7 @@
     "deathEater": "0",
     "bloodStatus": "unknown",
     "species": "giant",
-    "image": "https://apipotter.000webhostapp.com/images/fridfwulfa.jpg"
+    "image": "http://localhost:3000/img/fridwulfa.jpg"
   },
   {
     "_id": "175",
@@ -2622,7 +2622,7 @@
     "deathEater": "0",
     "bloodStatus": "unknown",
     "species": "portrait",
-    "image": "https://apipotter.000webhostapp.com/images/fatlady.jpg"
+    "image": "http://localhost:3000/img/fatlady.jpg"
   },
   {
     "_id": "176",
@@ -2637,7 +2637,7 @@
     "deathEater": "0",
     "bloodStatus": "unknown",
     "species": "phoenix",
-    "image": "https://apipotter.000webhostapp.com/images/fawkes.jpg"
+    "image": "http://localhost:3000/img/fawkes.jpg"
   },
   {
     "_id": "177",
@@ -2652,7 +2652,7 @@
     "deathEater": "0",
     "bloodStatus": "unknown",
     "species": "centaur",
-    "image": "https://apipotter.000webhostapp.com/images/firenze.jpg"
+    "image": "http://localhost:3000/img/firenze.jpg"
   },
   {
     "_id": "178",
@@ -2667,7 +2667,7 @@
     "deathEater": "0",
     "bloodStatus": "unknown",
     "species": "three-headed dog",
-    "image": "https://apipotter.000webhostapp.com/images/fluffy.jpg"
+    "image": "http://localhost:3000/img/fluffy.jpg"
   },
   {
     "_id": "179",
@@ -2682,7 +2682,7 @@
     "deathEater": "0",
     "bloodStatus": "unknown",
     "species": "giant",
-    "image": "https://apipotter.000webhostapp.com/images/grawp.jpg"
+    "image": "http://localhost:3000/img/grawp.jpg"
   },
   {
     "_id": "180",
@@ -2697,7 +2697,7 @@
     "deathEater": "0",
     "bloodStatus": "unknown",
     "species": "goblin",
-    "image": "https://apipotter.000webhostapp.com/images/griphook.jpg"
+    "image": "http://localhost:3000/img/griphook.jpg"
   },
   {
     "_id": "181",
@@ -2712,7 +2712,7 @@
     "deathEater": "0",
     "bloodStatus": "unknown",
     "species": "Snowy Owl",
-    "image": "https://apipotter.000webhostapp.com/images/hedwig.jpg"
+    "image": "http://localhost:3000/img/hedwig.jpg"
   },
   {
     "_id": "182",
@@ -2727,7 +2727,7 @@
     "deathEater": "0",
     "bloodStatus": "unknown",
     "species": "house'-elf",
-    "image": "https://apipotter.000webhostapp.com/images/hokey.jpg"
+    "image": "http://localhost:3000/img/hokey.jpg"
   },
   {
     "_id": "183",
@@ -2742,7 +2742,7 @@
     "deathEater": "0",
     "bloodStatus": "unknown",
     "species": "house'-elf",
-    "image": "https://apipotter.000webhostapp.com/images/kreacher.jpg"
+    "image": "http://localhost:3000/img/kreacher.jpg"
   },
   {
     "_id": "184",
@@ -2757,7 +2757,7 @@
     "deathEater": "0",
     "bloodStatus": "unknown",
     "species": "centaur",
-    "image": "https://apipotter.000webhostapp.com/images/magorian.jpg"
+    "image": "http://localhost:3000/img/magorian.jpg"
   },
   {
     "_id": "185",
@@ -2772,7 +2772,7 @@
     "deathEater": "0",
     "bloodStatus": "muggle-born",
     "species": "ghost",
-    "image": "https://apipotter.000webhostapp.com/images/myrtlewarren.jpg"
+    "image": "http://localhost:3000/img/myrtlewarren.jpg"
   },
   {
     "_id": "186",
@@ -2787,7 +2787,7 @@
     "deathEater": "0",
     "bloodStatus": "unknown",
     "species": "cat",
-    "image": "https://apipotter.000webhostapp.com/images/mrs.norris.jpg"
+    "image": "http://localhost:3000/img/mrs.norris.jpg"
   },
   {
     "_id": "187",
@@ -2802,7 +2802,7 @@
     "deathEater": "0",
     "bloodStatus": "unknown",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/greatauntmuriel.jpg"
+    "image": "http://localhost:3000/img/greatauntmuriel.jpg"
   },
   {
     "_id": "188",
@@ -2817,7 +2817,7 @@
     "deathEater": "0",
     "bloodStatus": "unknown",
     "species": "horcrux",
-    "image": "https://apipotter.000webhostapp.com/images/nagini.jpg"
+    "image": "http://localhost:3000/img/nagini.jpg"
   },
   {
     "_id": "189",
@@ -2832,7 +2832,7 @@
     "deathEater": "0",
     "bloodStatus": "unknown",
     "species": "ghost",
-    "image": "https://apipotter.000webhostapp.com/images/nicholasdemimsyporpington.jpg"
+    "image": "http://localhost:3000/img/nicholasdemimsyporpington.jpg"
   },
   {
     "_id": "190",
@@ -2847,7 +2847,7 @@
     "deathEater": "0",
     "bloodStatus": "unknown",
     "species": "Norwegian Ridgeback",
-    "image": "https://apipotter.000webhostapp.com/images/norbert.jpg"
+    "image": "http://localhost:3000/img/norbert.jpg"
   },
   {
     "_id": "191",
@@ -2862,7 +2862,7 @@
     "deathEater": "0",
     "bloodStatus": "unknown",
     "species": "poltergeist",
-    "image": "https://apipotter.000webhostapp.com/images/peeves.jpg"
+    "image": "http://localhost:3000/img/peeves.jpg"
   },
   {
     "_id": "192",
@@ -2877,7 +2877,7 @@
     "deathEater": "0",
     "bloodStatus": "unknown",
     "species": "scops owl",
-    "image": "https://apipotter.000webhostapp.com/images/pigwidgeon.jpg"
+    "image": "http://localhost:3000/img/pigwidgeon.jpg"
   },
   {
     "_id": "193",
@@ -2892,7 +2892,7 @@
     "deathEater": "0",
     "bloodStatus": "unknown",
     "species": "human",
-    "image": "https://apipotter.000webhostapp.com/images/madamrosmerta.jpg"
+    "image": "http://localhost:3000/img/madamrosmerta.jpg"
   },
   {
     "_id": "194",
@@ -2907,7 +2907,7 @@
     "deathEater": "0",
     "bloodStatus": "unknown",
     "species": "centaur",
-    "image": "https://apipotter.000webhostapp.com/images/ronan.jpg"
+    "image": "http://localhost:3000/img/ronan.jpg"
   },
   {
     "_id": "195",
@@ -2922,7 +2922,7 @@
     "deathEater": "0",
     "bloodStatus": "unknown",
     "species": "toad",
-    "image": "https://apipotter.000webhostapp.com/images/trevor.jpg"
+    "image": "http://localhost:3000/img/trevor.jpg"
   },
   {
     "_id": "196",
@@ -2937,6 +2937,6 @@
     "deathEater": "0",
     "bloodStatus": "unknown",
     "species": "house'-elf",
-    "image": "https://apipotter.000webhostapp.com/images/winky.jpg"
+    "image": "http://localhost:3000/img/winky.jpg"
   }
 ]
