@@ -2596,7 +2596,7 @@
   },
   {
     "_id": "174",
-    "name": "Fridfwulfa",
+    "name": "Fridwulfa",
     "role": "undefined",
     "house": "undefined",
     "school": "undefined",
@@ -2607,7 +2607,7 @@
     "deathEater": "0",
     "bloodStatus": "unknown",
     "species": "giant",
-    "image": "http://localhost:3000/img/fridfwulfa.jpg"
+    "image": "http://localhost:3000/img/fridwulfa.jpg"
   },
   {
     "_id": "175",
