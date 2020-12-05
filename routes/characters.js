@@ -6,8 +6,16 @@ const path = require('path');
 const characters = require('../utils/characters');
 
 router.get('/', function (req, res) {
-    const { house } = req.query;
-    if (house) {
+    const { house, offset, limit} = req.query;
+    if(limit){
+        if(offset){
+            var filter = characters.slice(offset, limit);
+        } else {
+            var filter = characters.slice(0, limit);
+        }
+        return res.json(filter);
+    }
+    if (house) { 
         const filter = characters.filter(p => p.house.toLowerCase().replace(' ', '') === house.toLowerCase().replace(' ', ''))
         if (filter.length > 0) {
             return res.json(filter);
